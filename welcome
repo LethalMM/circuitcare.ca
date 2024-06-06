@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> CircuitCare </title>
+</head>
+<body>
+    <h1> Welcome to CircuitCare! </h1>
+    <div id="intro">
+      <p>We are a company that originated in Ontario. We sell and fix computers!</p>
+  </div>
+  <div id="shop">
+  <h2 id="shop-now"> Look at our catalog of computers now: <a href="circuitcare.ca/shop"> <strong id="buy now> SHOP </strong> </a> </h2>
+    
